@@ -5,14 +5,8 @@ navbar:
     - icon: fa-home
       href: index.html
   right:
-    - icon: fa-envelope fa-lg
-      href: mailto:<maximilianoalvarez@live.com>
     - icon: ai-google-scholar
       href: https://scholar.google.com.au/citations?user=DKOReHkAAAAJ&hl=en
-    - icon: fa-linkedin fa-in  
-      href: https://www.linkedin.com/in/maximiliano-alvarez-c
-    - icon: fa-github fa-lg
-      href: http://github.com/maxalvarez
 output:
   rmarkdown::html_document:
     theme: darkly
