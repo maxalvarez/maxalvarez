@@ -16,3 +16,5 @@ navbar:
 output:
   rmarkdown::html_document:
     theme: darkly
+    css:
+    - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
