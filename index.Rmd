@@ -14,13 +14,15 @@ A list of the scientific publications I have co-authored:
 
 # Articles
 
-1. **Maximiliano Alvarez**, Aude Bernard, Scott N. Lieske, Understanding internal migration trends in OECD countries, Population, Space and Place, Volume 27, Issue 7, 2021, e2451. https://doi.org/10.1002/psp.2451
+1. **Maximiliano Alvarez**, Vicente Royuela, The effect of labour-market differentials on interregional migration in Spain: a meta-regression analysis. Journal of Regional Science. https://doi.org/10.1111/jors.12579
 
-2. **Maximiliano Alvarez**, Distributional effects of environmental taxation: An approximation with a meta-regression analysis, Economic Analysis and Policy, Volume 62, 2019, https://doi.org/10.1016/j.eap.2018.10.003.
+2. **Maximiliano Alvarez**, Aude Bernard, Scott N. Lieske, Understanding internal migration trends in OECD countries, Population, Space and Place, Volume 27, Issue 7, 2021, e2451. https://doi.org/10.1002/psp.2451
 
-3. John Asafu-Adjaye, Dominic Byrne, **Maximiliano Alvarez**, Dataset for analysing the relationships among economic growth, fossil fuel and non-fossil fuel consumption, Data in Brief, Volume 10, 2017, Pages 17-19, https://doi.org/10.1016/j.dib.2016.11.076.
+3. **Maximiliano Alvarez**, Distributional effects of environmental taxation: An approximation with a meta-regression analysis, Economic Analysis and Policy, Volume 62, 2019, https://doi.org/10.1016/j.eap.2018.10.003.
 
-4. John Asafu-Adjaye, Dominic Byrne, **Maximiliano Alvarez**, Economic growth, fossil fuel and non-fossil consumption: A Pooled Mean Group analysis using proxies for capital, Energy Economics, Volume 60, 2016, Pages 345-356, https://doi.org/10.1016/j.eneco.2016.10.016.
+4. John Asafu-Adjaye, Dominic Byrne, **Maximiliano Alvarez**, Dataset for analysing the relationships among economic growth, fossil fuel and non-fossil fuel consumption, Data in Brief, Volume 10, 2017, Pages 17-19, https://doi.org/10.1016/j.dib.2016.11.076.
+
+5. John Asafu-Adjaye, Dominic Byrne, **Maximiliano Alvarez**, Economic growth, fossil fuel and non-fossil consumption: A Pooled Mean Group analysis using proxies for capital, Energy Economics, Volume 60, 2016, Pages 345-356, https://doi.org/10.1016/j.eneco.2016.10.016.
 
 # Working papers
 
