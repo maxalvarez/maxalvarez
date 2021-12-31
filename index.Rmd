@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-Hi folks! I am Max, a Ph.D. candidate at the the University of Queensland, Australia. [CV](files\cv\cv.pdf)
+Hi folks! I am Max, a Ph.D. candidate at the the University of Queensland, Australia. [CV](files\cv.pdf)
 
 <img src = "files/bday2021.png" style = "width: 30%">
 
